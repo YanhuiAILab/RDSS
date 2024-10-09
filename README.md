@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 First, download feature-extracting model [clip-vit-base-patch32](https://huggingface.co/openai/clip-vit-base-patch32)
 
-Next, prepare the datasets and store them in the 'data' folder.
+Next, prepare the datasets and store them in the `data` folder.
 
 ## Start Sampling
 
